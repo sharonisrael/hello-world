@@ -6,3 +6,6 @@
 - Shahar
 - Tali
 - Pluralsight
+
+Thank you
+Sharon
